@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # template from https://jwodder.github.io/kbits/posts/click-config/
-# License: Creative Commons Attribution 4.0 International License. 
+# License: Creative Commons Attribution 4.0 International License.
 
 from configparser import ConfigParser
 import click
