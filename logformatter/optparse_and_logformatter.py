@@ -13,7 +13,6 @@ def logException(errorMsg, e):
 
 
 def mainFunction() -> None:
-    processing_result : bool = True
     try:
         # user_infos = [ UserInfo("falko", "1000"), UserInfo("fstrenzke", "1001") ]
         parser = OptionParser()
